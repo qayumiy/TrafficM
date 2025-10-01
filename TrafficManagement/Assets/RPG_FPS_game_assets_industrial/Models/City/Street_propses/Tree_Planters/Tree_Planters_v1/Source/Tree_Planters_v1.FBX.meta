@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 712ee3ab03007c5458994844257a700a
+timeCreated: 1514882550
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Tree_Planters_v1_1HR
+    100004: Tree_Planters_v1_1HS
+    100006: Tree_Planters_v1_1LR
+    100008: Tree_Planters_v1_1LS
+    100010: Tree_Planters_v1_2HR
+    100012: Tree_Planters_v1_2HS
+    100014: Tree_Planters_v1_2LR
+    100016: Tree_Planters_v1_2LS
+    100018: Tree_Planters_v1_3HR
+    100020: Tree_Planters_v1_3HS
+    100022: Tree_Planters_v1_3LR
+    100024: Tree_Planters_v1_3LS
+    100026: Tree_Planters_v1_4HR
+    100028: Tree_Planters_v1_4HS
+    100030: Tree_Planters_v1_4LR
+    100032: Tree_Planters_v1_4LS
+    400000: //RootNode
+    400002: Tree_Planters_v1_1HR
+    400004: Tree_Planters_v1_1HS
+    400006: Tree_Planters_v1_1LR
+    400008: Tree_Planters_v1_1LS
+    400010: Tree_Planters_v1_2HR
+    400012: Tree_Planters_v1_2HS
+    400014: Tree_Planters_v1_2LR
+    400016: Tree_Planters_v1_2LS
+    400018: Tree_Planters_v1_3HR
+    400020: Tree_Planters_v1_3HS
+    400022: Tree_Planters_v1_3LR
+    400024: Tree_Planters_v1_3LS
+    400026: Tree_Planters_v1_4HR
+    400028: Tree_Planters_v1_4HS
+    400030: Tree_Planters_v1_4LR
+    400032: Tree_Planters_v1_4LS
+    2300000: Tree_Planters_v1_1HR
+    2300002: Tree_Planters_v1_1HS
+    2300004: Tree_Planters_v1_1LR
+    2300006: Tree_Planters_v1_1LS
+    2300008: Tree_Planters_v1_2HR
+    2300010: Tree_Planters_v1_2HS
+    2300012: Tree_Planters_v1_2LR
+    2300014: Tree_Planters_v1_2LS
+    2300016: Tree_Planters_v1_3HR
+    2300018: Tree_Planters_v1_3HS
+    2300020: Tree_Planters_v1_3LR
+    2300022: Tree_Planters_v1_3LS
+    2300024: Tree_Planters_v1_4HR
+    2300026: Tree_Planters_v1_4HS
+    2300028: Tree_Planters_v1_4LR
+    2300030: Tree_Planters_v1_4LS
+    3300000: Tree_Planters_v1_1HR
+    3300002: Tree_Planters_v1_1HS
+    3300004: Tree_Planters_v1_1LR
+    3300006: Tree_Planters_v1_1LS
+    3300008: Tree_Planters_v1_2HR
+    3300010: Tree_Planters_v1_2HS
+    3300012: Tree_Planters_v1_2LR
+    3300014: Tree_Planters_v1_2LS
+    3300016: Tree_Planters_v1_3HR
+    3300018: Tree_Planters_v1_3HS
+    3300020: Tree_Planters_v1_3LR
+    3300022: Tree_Planters_v1_3LS
+    3300024: Tree_Planters_v1_4HR
+    3300026: Tree_Planters_v1_4HS
+    3300028: Tree_Planters_v1_4LR
+    3300030: Tree_Planters_v1_4LS
+    4300000: Tree_Planters_v1_1LR
+    4300002: Tree_Planters_v1_2LR
+    4300004: Tree_Planters_v1_3LR
+    4300006: Tree_Planters_v1_4LR
+    4300008: Tree_Planters_v1_1LS
+    4300010: Tree_Planters_v1_2LS
+    4300012: Tree_Planters_v1_3LS
+    4300014: Tree_Planters_v1_4LS
+    4300016: Tree_Planters_v1_1HR
+    4300018: Tree_Planters_v1_2HR
+    4300020: Tree_Planters_v1_3HR
+    4300022: Tree_Planters_v1_4HR
+    4300024: Tree_Planters_v1_1HS
+    4300026: Tree_Planters_v1_2HS
+    4300028: Tree_Planters_v1_3HS
+    4300030: Tree_Planters_v1_4HS
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
