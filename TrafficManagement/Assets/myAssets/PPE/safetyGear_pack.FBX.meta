@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: a44c0f3561af1294abf133b9340454b1
+timeCreated: 1537846129
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: m_Glasses
+    100002: M_Gloves
+    100004: M_HardHat_A
+    100006: M_HardHat_C
+    100008: M_Hardhatss
+    100010: m_helmet
+    100012: M_Miner_Clothing
+    100014: M_Safety_Glassesss
+    100016: M_vest
+    100018: //RootNode
+    400000: m_Glasses
+    400002: M_Gloves
+    400004: M_HardHat_A
+    400006: M_HardHat_C
+    400008: M_Hardhatss
+    400010: m_helmet
+    400012: M_Miner_Clothing
+    400014: M_Safety_Glassesss
+    400016: M_vest
+    400018: //RootNode
+    2300000: m_Glasses
+    2300002: M_Gloves
+    2300004: M_HardHat_A
+    2300006: M_HardHat_C
+    2300008: M_Hardhatss
+    2300010: m_helmet
+    2300012: M_Miner_Clothing
+    2300014: M_Safety_Glassesss
+    2300016: M_vest
+    3300000: m_Glasses
+    3300002: M_Gloves
+    3300004: M_HardHat_A
+    3300006: M_HardHat_C
+    3300008: M_Hardhatss
+    3300010: m_helmet
+    3300012: M_Miner_Clothing
+    3300014: M_Safety_Glassesss
+    3300016: M_vest
+    4300000: M_Miner_Clothing
+    4300002: M_Gloves
+    4300004: M_vest
+    4300006: M_Hardhatss
+    4300008: M_Safety_Glassesss
+    4300010: M_HardHat_A
+    4300012: M_HardHat_C
+    4300014: m_Glasses
+    4300016: m_helmet
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default
+    second: {fileID: 2100000, guid: 88ce2d1b9a894184b867a59eda2461cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Vest
+    second: {fileID: 2100000, guid: c45aeea736901b344a778d9c6935030c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_HardHat_C
+    second: {fileID: 2100000, guid: 197cfe598ff548a4a800e36a267a785c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Hardhat_MSA
+    second: {fileID: 2100000, guid: c78d65b62400596459ac3be3a6587fc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glasses
+    second: {fileID: 2100000, guid: 69a4bc2d9af89744f8e21567cd26a596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hardhat
+    second: {fileID: 2100000, guid: 7a28df9d8b7786a468788959750654e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lens
+    second: {fileID: 2100000, guid: a2eae7e1027ae9044874bede61f8e6a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: safety_boots
+    second: {fileID: 2100000, guid: 6490b715b661fbc4f89fc21d5c7ffa90, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

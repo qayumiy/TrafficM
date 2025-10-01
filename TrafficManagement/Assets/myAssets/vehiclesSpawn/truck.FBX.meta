@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 3e490be4004f7704a8da82801abe6432
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cristal_big_035
+    100002: //RootNode
+    100004: truck00
+    100006: truck01
+    100008: truck02
+    100010: truck03
+    100012: truck04
+    100014: truck05
+    100016: truck06
+    100018: truck07
+    100020: truck08
+    100022: truck09
+    100024: truck11
+    100026: truck12
+    100028: truck13
+    100030: truck14
+    100032: truck15
+    100034: truck16
+    100036: truck17
+    100038: truck18
+    100040: truck19
+    100042: truck20
+    400000: cristal_big_035
+    400002: //RootNode
+    400004: truck00
+    400006: truck01
+    400008: truck02
+    400010: truck03
+    400012: truck04
+    400014: truck05
+    400016: truck06
+    400018: truck07
+    400020: truck08
+    400022: truck09
+    400024: truck11
+    400026: truck12
+    400028: truck13
+    400030: truck14
+    400032: truck15
+    400034: truck16
+    400036: truck17
+    400038: truck18
+    400040: truck19
+    400042: truck20
+    2100000: Background
+    2100002: black_plastic
+    2100004: glass
+    2100006: Archmodels55_22_orangelight
+    2100008: Archmodels55_22_chrome
+    2100010: 'Archmodels55_22_Material #568'
+    2100012: Archmodels55_22_glass_black
+    2100014: tyre
+    2100016: rims
+    2100018: truck
+    2100020: Archmodels55_22_redlight
+    2100022: Archmodels55_22_mirror
+    2300000: cristal_big_035
+    2300002: truck00
+    2300004: truck01
+    2300006: truck02
+    2300008: truck03
+    2300010: truck04
+    2300012: truck05
+    2300014: truck06
+    2300016: truck07
+    2300018: truck08
+    2300020: truck09
+    2300022: truck11
+    2300024: truck12
+    2300026: truck13
+    2300028: truck14
+    2300030: truck15
+    2300032: truck16
+    2300034: truck17
+    2300036: truck18
+    2300038: truck19
+    2300040: truck20
+    3300000: cristal_big_035
+    3300002: truck00
+    3300004: truck01
+    3300006: truck02
+    3300008: truck03
+    3300010: truck04
+    3300012: truck05
+    3300014: truck06
+    3300016: truck07
+    3300018: truck08
+    3300020: truck09
+    3300022: truck11
+    3300024: truck12
+    3300026: truck13
+    3300028: truck14
+    3300030: truck15
+    3300032: truck16
+    3300034: truck17
+    3300036: truck18
+    3300038: truck19
+    3300040: truck20
+    4300000: cristal_big_035
+    4300002: truck00
+    4300004: truck01
+    4300006: truck02
+    4300008: truck03
+    4300010: truck04
+    4300012: truck05
+    4300014: truck06
+    4300016: truck07
+    4300018: truck08
+    4300020: truck09
+    4300022: truck11
+    4300024: truck12
+    4300026: truck13
+    4300028: truck14
+    4300030: truck15
+    4300032: truck16
+    4300034: truck17
+    4300036: truck18
+    4300038: truck19
+    4300040: truck20
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
