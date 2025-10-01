@@ -456,7 +456,7 @@ GameObject:
   - component: {fileID: 5386876770507284018}
   - component: {fileID: 5386876768818715942}
   m_Layer: 0
-  m_Name: Player -LorryPrototype (4W)
+  m_Name: Player
   m_TagString: Vehicle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
