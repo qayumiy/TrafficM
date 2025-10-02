@@ -40,7 +40,7 @@ public class CarEngineNew : MonoBehaviour {
  //   public Renderer carRenderer;
 
 	[Header("Turning")]
-	private bool turning;
+	//private bool turning;
 	public float closeEnough=5f;
     private List<Transform> nodes;
     private int currentNode = 0;
@@ -159,7 +159,7 @@ public class CarEngineNew : MonoBehaviour {
 		float sqrlen = offset.sqrMagnitude;
 
 		if (sqrlen < closeEnough * closeEnough) {
-			turning = true;
+			//turning = true;
 
 			if (currentNode == nodes.Count - 1) {
 

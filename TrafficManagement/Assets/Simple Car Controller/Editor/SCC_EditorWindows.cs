@@ -52,14 +52,14 @@ public class SCC_EditorWindows : Editor {
     [MenuItem("Tools/BoneCracker Games/Simple Car Controller/Add SCC Camera To Scene", false)]
     public static void CreateCamera() {
 
-        if (!FindObjectOfType<SCC_Camera>()) {
+        if (!FindAnyObjectByType<SCC_Camera>()) {
 
             Selection.activeGameObject = (GameObject)Instantiate(Resources.Load("SCC_Camera", typeof(GameObject)));
 
         } else {
 
             EditorUtility.DisplayDialog("Your Scene Already Has SCC_Camera", "Your scene already has SCC_Camera.", "Ok");
-            Selection.activeGameObject = FindObjectOfType<SCC_Camera>().gameObject;
+            Selection.activeGameObject = FindAnyObjectByType<SCC_Camera>().gameObject;
 
         }
 
@@ -68,14 +68,14 @@ public class SCC_EditorWindows : Editor {
     [MenuItem("Tools/BoneCracker Games/Simple Car Controller/Add SCC Canvas To Scene", false)]
     public static void CreateCanvas() {
 
-        if (!FindObjectOfType<SCC_Dashboard>()) {
+        if (!FindAnyObjectByType<SCC_Dashboard>()) {
 
             Selection.activeGameObject = (GameObject)Instantiate(Resources.Load("SCC_Canvas", typeof(GameObject)));
 
         } else {
 
             EditorUtility.DisplayDialog("Your Scene Already Has SCC_Canvas", "Your scene already has SCC_Canvas.", "Ok");
-            Selection.activeGameObject = FindObjectOfType<SCC_Dashboard>().gameObject;
+            Selection.activeGameObject = FindAnyObjectByType<SCC_Dashboard>().gameObject;
 
         }
 

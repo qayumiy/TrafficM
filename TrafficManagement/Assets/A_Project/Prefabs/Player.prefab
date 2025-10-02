@@ -472,7 +472,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 110.89927, y: 0.95, z: -163.56}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+  m_LocalScale: {x: 1.5000001, y: 1.5, z: 1.5000001}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5429424103505992768}
@@ -502,7 +502,7 @@ Rigidbody:
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_ImplicitCom: 1
+  m_ImplicitCom: 0
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
@@ -6062,6 +6062,7 @@ GameObject:
   - component: {fileID: 5454396411576823110}
   - component: {fileID: 5454396411576823108}
   - component: {fileID: 5406206220377625014}
+  - component: {fileID: 368520326221743166}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Vehicle
@@ -6181,6 +6182,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &368520326221743166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5428113021514892338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cb4a6f5774dfd94ea3fe6d4e8ae60fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LocationEvent: {fileID: 11400000, guid: 29034f0637723464cbe0b15005e0c6ce, type: 2}
 --- !u!1 &5428113022293025162
 GameObject:
   m_ObjectHideFlags: 0
